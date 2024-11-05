@@ -1,7 +1,7 @@
 # **AppFolha_Pagamento**
 
 ## 📱 Descrição
-o #AppFolha_Pagamento# tem como objetivo calcular o salário líquido de uma pessoa com base nos seus dados pessoais
+o *AppFolha_Pagamento* tem como objetivo calcular o salário líquido de uma pessoa com base nos seus dados pessoais
 
 ## 🔧 Funcionalidades
 - [x] Entrada de dados(nome, salário bruto, sexo e número de filhos)
